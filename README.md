@@ -1,10 +1,4 @@
-# 基于SSM的图书馆管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**图书馆10** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的图书馆管理系统10
 
 ## 1、项目介绍
 
@@ -20,6 +14,11 @@
 后端框架：SSM（Spring、SpringMVC、Mybatis）
 
 前端技术：Layui、jsp、css、JavaScript、JQuery
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**图书馆**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 3、开发环境
 
@@ -35,31 +34,23 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162326627.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207162326627.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-图书管理1](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162328878.jpg)
+![管理员-图书管理1](https://www.codeshop.fun/Typora-Images/202207162328878.jpg)
 
-![管理员-添加图书](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327705.jpg)
+![管理员-添加图书](https://www.codeshop.fun/Typora-Images/202207162327705.jpg)
 
-![管理员-读者管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327245.jpg)
+![管理员-读者管理](https://www.codeshop.fun/Typora-Images/202207162327245.jpg)
 
-![管理员-借阅管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327491.jpg)
+![管理员-借阅管理](https://www.codeshop.fun/Typora-Images/202207162327491.jpg)
 
-![管理员-类别管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327367.jpg)
+![管理员-类别管理](https://www.codeshop.fun/Typora-Images/202207162327367.jpg)
 
 ### 4.3 读者模块
 
-![读者-图书借阅](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327793.jpg)
+![读者-图书借阅](https://www.codeshop.fun/Typora-Images/202207162327793.jpg)
 
-![读者-借阅记录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207162327408.jpeg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： **图书馆10**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![读者-借阅记录](https://www.codeshop.fun/Typora-Images/202207162327408.jpeg)
 
